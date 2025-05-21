@@ -29,3 +29,9 @@ Below is a call example, that shows the communication pipeline's (comm_pipe.txt)
 ![receive_1](https://github.com/user-attachments/assets/f979f6a1-f5f5-468e-934c-c95faa2af463)
 ![receive_2](https://github.com/user-attachments/assets/38742c46-d63d-4e20-895c-6a042502e793)
 ![receive_3](https://github.com/user-attachments/assets/139a3eb2-c2a3-4452-b1dd-9a196f451d99)
+
+
+
+UML sequence diagram
+
+![UML_CS361 001](https://github.com/user-attachments/assets/0881d33d-66e9-4ae7-9633-a9b3d473dca4)
